@@ -3,7 +3,7 @@
 
 **This is only for the reaction-logs custom command for [YAGPDB.xyz](https://yagpdb.xyz) discord bot (I was too lazy to add more stuff to it so I just made a custom fork)**
 
-This fixes the YAGPDB.xyz [custom command for reaction-logs.](https://yagpdb-cc.github.io/utilities/reaction-logs) By default they don't show the regional indicators for some reason in discord and I am too lazy to try and scrape another site so this works. Enjoy
+This fixes the YAGPDB.xyz [custom command for reaction-logs.](https://yagpdb-cc.github.io/utilities/reaction-logs) By default they don't show the regional indicators for some reason in discord for the embed log messages and I am too lazy to try and scrape another site so this works. Enjoy
 
 Should work for a while... I will ***probably*** fix it if it breaks
 
