@@ -7,7 +7,7 @@ Should work for a while I will ***probably*** fix it if it breaks
 
 ## **Installation**
 
-To install it, copy the original custom command by [@Satty9361](https://github.com/Satty9361) which you can download [here](https://yagpdb-cc.github.io/utilities/reaction-logs) and then replace the line that reads 
+To install it, copy the original custom command by [@Satty9361](https://github.com/Satty9361) which you can find [here](https://yagpdb-cc.github.io/utilities/reaction-logs) and then replace the line that reads 
 
 `https://raw.githubusercontent.com/iamcal/emoji-data/master/img-google-136/` 
 
